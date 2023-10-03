@@ -1,0 +1,14 @@
+{
+    "jugadores": [
+        {
+            "id": 1,
+            "nombre": "Julio",
+            "genero": "Tapia"
+        },
+        {
+            "id": 2,
+            "nombre": "Julio2",
+            "genero": "Tapia2"
+        }
+    ]
+}
