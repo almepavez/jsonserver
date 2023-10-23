@@ -4,5 +4,6 @@
   "estudiantes":[],
   "vehiculos":[],
   "administradores":[],
-  "viajes":[]
+  "viajes":[],
+  "viajeEnCurso":[]
 }
